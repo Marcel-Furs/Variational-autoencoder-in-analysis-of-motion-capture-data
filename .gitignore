@@ -1,0 +1,6 @@
+*.png
+.ipynb_checkpoints/
+InfoBones.ipynb
+.venv/
+.idea/
+IGNORE/
